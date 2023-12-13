@@ -1,0 +1,48 @@
+.tubes{
+    width: 200px;
+    border-radius: 300px;
+    position: relative;
+    bottom: 10px;
+    left: 180px;
+    border-style: double;
+    border-color:lightblue;
+}
+
+.microscope{
+    width: 150px;  
+    border-radius: 200px;
+    position: relative;
+    bottom: 10px;
+    right: 200px;
+    border-style: double;
+    border-color:bisque;
+}
+
+body{
+    margin: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:goldenrod;
+}
+
+p, ul, ol{
+    font-size: 18px;
+    color: purple;
+}
+
+h3 {
+    font-size: 20px;
+    text-decoration: underline;
+    color: beige;
+
+}
+
+h2{
+    font-size: 30px;
+    color: beige;
+}
+
+h1{
+    font-size: 40px;
+    color: beige;
+}
+
